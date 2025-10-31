@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/H7bWkG4.png" width="200px" alt="Mulher negra programadora animada" />
+  <img src="https://chatgpt.com/s/m_690453ca3bc08191a96c1236c0e357a0Z" />
 </p>
 
 <p align="center">
