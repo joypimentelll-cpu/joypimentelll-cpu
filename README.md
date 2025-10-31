@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/H9pn.gif" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimatedglittergraphics-n-more.tumblr.com%2Fpost%2F699508119795105792%2Fsource-source&psig=AOvVaw0GF7Q9ObmFRIViVEFv1WZv&ust=1762021800111000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwicnZDtiM-QAxUmOLkGHWThMMIQjRx6BAgAEBk"/>
 </p>
 
 <p align="center">
