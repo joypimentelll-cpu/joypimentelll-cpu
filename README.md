@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://br.pinterest.com/pin/371124825555553059/" />
+  <img src="https://i.gifer.com/H9pn.gif" />
 </p>
 
 <p align="center">
