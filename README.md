@@ -102,5 +102,3 @@ Se você também acredita no poder da tecnologia para transformar a ciência e a
 
 ---
 <p align="center"><i>“A tecnologia é mais do que código — é uma forma de transformar o mundo.” 🌍</i></p>
-
-⭐ *“Código é mais do que lógica — é criatividade aplicada ao progresso humano.”*
