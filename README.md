@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimatedglittergraphics-n-more.tumblr.com%2Fpost%2F699508119795105792%2Fsource-source&psig=AOvVaw0GF7Q9ObmFRIViVEFv1WZv&ust=1762021800111000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwicnZDtiM-QAxUmOLkGHWThMMIQjRx6BAgAEBk"/>
+  <img src="https://64.media.tumblr.com/516fabb54757fe24585fcf478f8d1808/acd96e24ad498b50-7c/s1280x1920/16db940cee063052dacb61c03fe0145a0adf5b93.gifv"/>
 </p>
 
 <p align="center">
