@@ -58,11 +58,9 @@ Quero participar de uma comunidade que transforma **dados em descobertas, códig
   <!-- 🧩 Ferramentas de Aprendizagem e Colaboração -->
   <img src="https://img.shields.io/badge/Kahoot-46178F?style=for-the-badge&logo=kahoot&logoColor=white" alt="Kahoot"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 
   <!-- 📄 Ferramentas de Escritório e Documentação -->
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 
   <!-- 🧰 Controle de Versão e IDE -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
