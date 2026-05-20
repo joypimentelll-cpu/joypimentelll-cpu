@@ -41,7 +41,7 @@ Quero participar de uma comunidade que transforma **dados em descobertas, códig
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -53,7 +53,7 @@ Quero participar de uma comunidade que transforma **dados em descobertas, códig
   <!-- 🎨 Design e Experiência do Usuário -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
-  <img src="https://img.shields.io/badge/Product%20Design-FF4088?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Design"/>
+
 
   <!-- 🧩 Ferramentas de Aprendizagem e Colaboração -->
   <img src="https://img.shields.io/badge/Kahoot-46178F?style=for-the-badge&logo=kahoot&logoColor=white" alt="Kahoot"/>
