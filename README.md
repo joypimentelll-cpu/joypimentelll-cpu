@@ -9,12 +9,11 @@
 </p>
 
 <p align="center">
-🌟 Estudando desenvolvimento web com foco em desenvolvimento front end
+🌟 Estudando desenvolvimento web com foco em desenvolvimento front end e desenvolvimento full stack.
 
 💡 Apaixonada por <b>programação web</b> e <b>inteligência artificial</b>.<br> Tenho formaçao  e experiencia na area da ciência.
 🎧 Fora das telas, adoro explorar <b>museus</b>, <b>parques ecológicos</b> e descobrir o lado <b>científico do cotidiano</b> — sempre com uma boa trilha sonora inspirando novas ideias.
 </p>
-
 ---
 
 ## 🎯 Objetivo  
