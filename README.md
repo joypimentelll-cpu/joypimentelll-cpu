@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-🌟 Estudante de Tecnologia — do Curso <b>BIT - Beleza Inclusiva e Tecnológica</b>, uma parceria entre a <b>L'Oréal</b> e o <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a>.<br>
-💡 Apaixonada por <b>programação web</b>, <b>segurança digital</b> e <b>inteligência artificial</b>.<br>
+🌟 Estudando desenvolvimento web com foco em desenvolvimento front end
+
+💡 Apaixonada por <b>programação web</b> e <b>inteligência artificial</b>.<br> Tenho formaçao  e experiencia na area da ciência.
 🎧 Fora das telas, adoro explorar <b>museus</b>, <b>parques ecológicos</b> e descobrir o lado <b>científico do cotidiano</b> — sempre com uma boa trilha sonora inspirando novas ideias.
 </p>
 
